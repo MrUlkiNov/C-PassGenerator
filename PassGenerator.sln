@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassGenerator", "PassGenerator\PassGenerator.csproj", "{EE648D0B-055F-4095-8F68-7C05F4A5F0E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreekPasswordGenerator.Tests", "GreekPasswordGenerator.Tests\GreekPasswordGenerator.Tests.csproj", "{EDFC4927-5523-4E87-A68C-110E558A97CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE648D0B-055F-4095-8F68-7C05F4A5F0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE648D0B-055F-4095-8F68-7C05F4A5F0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE648D0B-055F-4095-8F68-7C05F4A5F0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE648D0B-055F-4095-8F68-7C05F4A5F0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFC4927-5523-4E87-A68C-110E558A97CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFC4927-5523-4E87-A68C-110E558A97CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFC4927-5523-4E87-A68C-110E558A97CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFC4927-5523-4E87-A68C-110E558A97CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
